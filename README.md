@@ -3,6 +3,7 @@
 ## **Netflix project**
  
 Including 5 different datasets from movies, titles, region, categories to financial status.
+This project was conducted in collaboration of Susana Pellicer Lopez and Nina Vavrinovits Kalampogia
 
 # Motivation
 
